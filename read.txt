@@ -1,0 +1,4 @@
+credencail
+https://www.themoviedb.org/settings/api 
+end point Api
+https://developer.themoviedb.org/docs/search-and-query-for-details

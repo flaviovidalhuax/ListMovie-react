@@ -1,0 +1,67 @@
+.infopage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+ 
+    width: 100%;
+    background-color: rgba(76, 190, 255, 0.6);
+}
+
+.infopage_2{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px,1fr));
+    grid-template-rows: repeat(auto-fit, minmax(100px,1fr));
+    gap: 5px;
+    
+}
+.info_section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.info_sect-input{
+    height: 30px;
+    border-radius: .5rem;
+    font-weight: 700;
+}
+.btn_form{
+    margin: 5px;
+  }
+  .btn_form:hover{
+    background-color: #DEFCF9;
+    color:white;
+  }
+.info_card-li{
+    border: 3px black solid;
+    border-radius: .5rem;
+    margin: .5rem;
+    overflow: hidden;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.info_img{
+    max-width:fit-content;
+    height:400px;
+  
+    margin: .5rem;
+    border-radius: 1rem;
+}
+.info_span{
+    color: white;
+    font-weight: lighter;
+    padding-left: 10px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.infopage_2-p{
+    padding: 1rem;
+    
+}
