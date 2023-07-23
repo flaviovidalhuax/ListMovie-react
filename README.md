@@ -14,7 +14,7 @@ por medio de esta api se puede buscal peliculas por medio de los parametros
 codigo githob:
 # [https://github.com/flaviovidalhuax/ListMovie-react]
 web site
- # deply: [github.com/flaviovidalhuax/ListMovie-react.]
+ # deply: [https://heroic-bubblegum-99871a.netlify.app/]
 
 
 #api para hacer peticion de api movie dentro de otra api
